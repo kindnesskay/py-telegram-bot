@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__
+
+# Ignore the dependency directory
+Lib
+Scripts
+include
+pyvenv.cfg
+request.py
+
